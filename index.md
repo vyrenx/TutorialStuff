@@ -25,7 +25,7 @@ This is how it should look like now.
 
 ![Image4](https://cdn.discordapp.com/attachments/804614889577644032/804619896709054484/unknown.png)
 
-- And boom! You're basically done!
+**And boom! You're basically done!**
 
 ### Step 2: Code stuff
 - Create a folder for where you store your bot's files
@@ -70,4 +70,4 @@ What this code means above is "When client on event `ready`, log string `Hello W
 - Click on OAUTH2
 - Check `bot`
 - Follow the link that is given
-- Your bot is now working! Neat!
+**Your bot is now working! Neat!**
